@@ -27,7 +27,7 @@ jobs:
     
     - name: Run linter
       run: |
-        flake8 src/ tests/ --max-line-length=120 --ignore=E302,W293,E305
+        flake8 src/ tests/
     
     - name: Run tests
       run: |
