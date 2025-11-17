@@ -1,6 +1,6 @@
 # DevOps CI/CD Pipeline - Assignment Report
 
-**Student Name:** [Your Name]  
+**Student Name:** Jesser Hamdi
 **Date:** November 17, 2025  
 **Repository:** https://github.com/LICHG4E/ml-app
 
